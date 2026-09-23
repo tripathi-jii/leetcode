@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tripathi-jii/leetcode/tree/master/0013-roman-to-integer) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tripathi-jii/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tripathi-jii/leetcode/tree/master/0014-longest-common-prefix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tripathi-jii/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Trie
 |  |
 | ------- |
@@ -47,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/tripathi-jii/leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/tripathi-jii/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/tripathi-jii/leetcode/tree/master/0196-delete-duplicate-emails) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tripathi-jii/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tripathi-jii/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tripathi-jii/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
