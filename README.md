@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/tripathi-jii/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tripathi-jii/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tripathi-jii/leetcode/tree/master/0013-roman-to-integer) |
+| [3524-find-x-value-of-array-i](https://github.com/tripathi-jii/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tripathi-jii/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tripathi-jii/leetcode/tree/master/0014-longest-common-prefix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tripathi-jii/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3524-find-x-value-of-array-i](https://github.com/tripathi-jii/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tripathi-jii/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Trie
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tripathi-jii/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/tripathi-jii/leetcode/tree/master/3524-find-x-value-of-array-i) |
 <!---LeetCode Topics End-->
