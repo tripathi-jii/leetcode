@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tripathi-jii/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tripathi-jii/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tripathi-jii/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tripathi-jii/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/tripathi-jii/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/tripathi-jii/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tripathi-jii/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tripathi-jii/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tripathi-jii/leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tripathi-jii/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tripathi-jii/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tripathi-jii/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -101,10 +103,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tripathi-jii/leetcode/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tripathi-jii/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/tripathi-jii/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Matrix
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tripathi-jii/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tripathi-jii/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
