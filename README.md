@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-top-travellers](https://github.com/tripathi-jii/leetcode/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/tripathi-jii/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/tripathi-jii/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
+| [1527-patients-with-a-condition](https://github.com/tripathi-jii/leetcode/tree/master/1527-patients-with-a-condition) |
 ## Binary Search
 |  |
 | ------- |
