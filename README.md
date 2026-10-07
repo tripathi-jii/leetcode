@@ -154,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/tripathi-jii/leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tripathi-jii/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tripathi-jii/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
