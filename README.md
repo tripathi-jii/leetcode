@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tripathi-jii/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tripathi-jii/leetcode/tree/master/0013-roman-to-integer) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tripathi-jii/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tripathi-jii/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tripathi-jii/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tripathi-jii/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tripathi-jii/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tripathi-jii/leetcode/tree/master/0020-valid-parentheses) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tripathi-jii/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tripathi-jii/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
