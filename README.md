@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tripathi-jii/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tripathi-jii/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/tripathi-jii/leetcode/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tripathi-jii/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/tripathi-jii/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/tripathi-jii/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/tripathi-jii/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/tripathi-jii/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tripathi-jii/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tripathi-jii/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tripathi-jii/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Database
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tripathi-jii/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tripathi-jii/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tripathi-jii/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tripathi-jii/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tripathi-jii/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/tripathi-jii/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/tripathi-jii/leetcode/tree/master/3665-twisted-mirror-path-count) |
